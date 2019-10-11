@@ -1,0 +1,78 @@
+Meeting with the Hjort
+
+Mangler:
+- Three different kinds of wars: more 
+- Hegre special 2017 ville censor gerne have set (der er en del her.. ups....)
+- Litteratur gennemgængen skulle have været bedre - hvis det skulle være et 'normalt' speciale.
+- Nogle gange skal du lige folde et argument ud og ikke bare at henvise
+
+- Speciale om computer vision i PS 
+- Kristian Steendorf Nielsen
+- Steven Larsen
+
+
+Det skal afsted!
+Det skal være kortere
+Alt the mathy stuff skal ned/væk
+Hegre skal helt sikkert 
+
+Benny Oaken hvar det, men ikke mere.
+Tage A. Ria er ham der står for PS
+
+If it is article worthy, journals of interest:
+
+- Science (impact factor: 41.037) (long fucking shot...)(Her, hvis du kan få noget feedback op front før du skal skære helt vildt ned)
+    - cederman2017predicting Predicting armed conflict: Time to adjust our expectations?
+    
+- American Political Science Review (impact factor: 3.895) (prøve her siger hjort)
+    - mueller_2016 Reading between the lines: Prediction of political violence using newspaper text
+    - Lipset_1959 Some social requisites of democracy: Economic development and political legitimacy
+    - Cederman_Weidmann_Gleditsch_2011 Horizontal Inequalities and Ethnonationalist Civil War: A Global Comparison
+    - Fearon_Laitin_2003 Ethnicity, Insurgency, and Civil War
+
+- Journal of Peace Research (impact factor: 2.518)
+    - Ward_Greenhill_Bakke_2010 The perils of policy by p-value: Predicting civil conflicts
+    - Schrodt_2014 Seven deadly sins of contemporary quantitative political analysis
+    - Tollefsen_2012 PRIO-GRID: A unified spatial data structure
+    - prio_code_2015 PRIO-GRID v.2.0 Codebook
+    - Sundberg_2013 Introducing the UCDP georeferenced event dataset
+    - Ross_2004 What Do We Know about Natural Resources and Civil War?
+    - Fearon_2004 Why Do Some Civil Wars Last So Much Longer than Others?
+    - black2013 When have violent civil conflicts spread? Introducing a dataset of substate conflict contagion
+    - chadefaux_2014 Early warning signals for war in the news
+    
+- Journal of Conflict Resolution (impact factor: 2.471)
+    - Weidmann_2009 Geography as Motivation and Opportunity: Group Concentration and Ethnic Conflict
+    - Hegre_Oestby_Raleigh_2009 Poverty and Civil War Events: A Disaggregated Study of Liberia
+    - Cunningham_Gleditsch_Salehyan_2009 It Takes Two: A Dyadic Analysis of Civil War Duration and Outcome
+    - Cederman_Gleditsch_2009 Introduction to Special Issue on “Disaggregating Civil War
+    - Cederman_Buhaug_Roed_2009 Ethno-Nationalist Dyads and Civil War: A GIS-Based Analysis
+    - Buhaug_Gates_Lujala_2009 Geography, Rebel Capability, and the Duration of Civil Conflict
+    - Beardsley_McQuinn_2009 Rebel Groups as Predatory Organizations: The Political Effects of the 2004 Tsunami in Indonesia and Sri Lanka
+    - Vreeland_2008 The Effect of Political Regime on Civil War: Unpacking Anocracy
+    - Hegre_Sambanis_2006 Sensitivity Analysis of Empirical Results on Civil War Onset
+    - Fearon_2005 Primary Commodity Exports and Civil War
+    - weidmann_ward_2010predicting Predicting Conflict in Space and Time
+    - bara_2017 Legacies of Violence: Conflict-specific Capital and the Postconflict Diffusion of Civil War
+    - Blimes_2006 The indirect effect of ethnic heterogeneity on the likelihood of civil war onset
+    - Vogt_2015 Integrating Data on Ethnicity, Geography, and Conflict: The Ethnic Power Relations Data Set Family
+    
+    
+- Conflict Management and Peace Science (impact factor: 1.345)
+    - Buhaug_2010 Dude, Where’s My Conflict?: LSG, Relative Strength, and the Location of Civil War
+    
+- International Studies Quarterly (impact factor: 2.172)
+    - buhaug2008contagion Contagion or confusion? Why conflicts cluster in space
+    - Hegre2013 Predicting Armed Conflict, 2010–2050
+    
+- Annual review of political science (Impact factor: 3.915)
+    - Goldstone_2001 Toward a fourth generation of revolutionary theory
+    
+- Stability: International Journal of Security & Development (impact factor: ?)
+    - perry_2013 Machine learning and conflict prediction: a use case
+
+- Data science Journal (impact factor: 0.79)
+    - chadefaux2017conflict Conflict forecasting and its limits
+    
+- PlOS one (impact factor: 2.776)
+    - ... just because
